@@ -2,24 +2,25 @@
 
 ## 🚀 Engenheiro de Software
 
-Especialista em **Go**, **arquitetura de sistemas** e **soluções escaláveis** para empresas. Apaixonado por criar software que resolve problemas reais e impacta positivamente o negócio.
+Formado em **Engenharia de Software** pela Univille (2023), com **+8 anos** de experiência prática em desenvolvimento. Especialista em **Go**, **PHP** e **arquitetura de sistemas** para soluções governamentais e empresariais.
 
 ### 💼 O que eu faço
-- 🔧 **Desenvolvimento Backend**: APIs REST, microserviços, sistemas distribuídos
-- 🏗️ **Arquitetura de Software**: Design patterns, clean architecture, DDD
-- 📊 **Bancos de Dados**: PostgreSQL, MongoDB, Redis, otimização de queries
-- 🐳 **DevOps**: Docker, CI/CD, cloud deployment, monitoramento
-- 🔒 **Segurança**: OAuth, SSL, LGPD compliance, auditoria de sistemas
+- 🏗️ **CIO & Arquiteto**: Lidero equipes e defino padrões técnicos na Bash Technology
+- 🔧 **Backend Development**: APIs REST, WebSockets, sistemas distribuídos
+- 🏛️ **Projetos Governamentais**: Licitações públicas, compliance LGPD
+- 🏥 **Sistemas Críticos**: Healthcare, contact center, e-commerce
+- 📊 **Performance**: Otimização e escalabilidade de sistemas
 
 ### 🛠️ Stack Técnica
 
-**Backend:**
+**Backend Specialist:**
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Bancos de Dados:**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/-CockroachDB-6933FF?style=flat-square&logo=cockroachlabs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **DevOps & Tools:**
@@ -33,19 +34,73 @@ Especialista em **Go**, **arquitetura de sistemas** e **soluções escaláveis**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrluiz96&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
 
+### 🏆 Experiência Real
+
+- 🎓 **Formação**: Bacharelado em Engenharia de Software (Univille, 2023)
+- 👔 **Liderança**: CIO da Bash Technology - definindo arquitetura e padrões
+- ⏱️ **Experiência**: +8 anos em desenvolvimento de sistemas
+- 🏛️ **Setor Público**: Especialista em licitações e compliance governamental
+- 🏥 **Healthcare**: Prontuário eletrônico para rede Unimed
+- 📞 **Contact Center**: Plataformas omnichannel com PABX integrado
+
+### 💡 Projetos em Destaque
+
+#### 🏗️ Framework Bash (Proprietário)
+- **Tech**: Go, CockroachDB, WebSockets
+- **Scale**: Usado em escala estadual e nacional
+- **Features**: Template engine própria, APIs REST, tempo real
+
+#### 📞 Plataforma Omnichannel
+- **Tech**: PHP, MySQL, JavaScript
+- **Scale**: Contact centers de grande porte
+- **Features**: PABX integrado, automação de cobrança, multi-canal
+
+#### 🏥 PEP - Prontuário Eletrônico Unimed
+- **Tech**: Spring Boot, PostgreSQL
+- **Scale**: Rede de clínicas e hospitais
+- **Features**: Gestão médica completa, histórico de pacientes
+
+#### 🤖 IA para Atendimento Governamental
+- **Tech**: Go, NLP, APIs
+- **Scale**: Órgãos públicos estaduais
+- **Features**: Chatbots inteligentes, automação de processos
+
+#### 🎓 Sistema Educacional
+- **Tech**: PHP, análise de imagens
+- **Scale**: Escolas de ensino médio
+- **Features**: Correção automática de provas, relatórios pedagógicos
+
+#### 💼 ERP para Trabalho Temporário
+- **Tech**: PHP, MySQL
+- **Scale**: Agências de RH
+- **Features**: Gestão completa de contratação temporária
+
 ### 📫 Vamos conversar?
 
-- 🌐 **Portfolio**: [francisco-luiz.dev](https://jrluiz.com.br)
+- 🌐 **Portfolio**: [Meu Site](https://seu-portfolio.dev)
 - 💼 **LinkedIn**: [francisco-luiz-junior](https://www.linkedin.com/in/francisco-luiz-junior-493918116/)
-- 📧 **Email**: [francisco.luiz.jr@outlook.com](mailto:francisco.luiz.jr@outlook.com)
-- 💬 **WhatsApp**: +55 47 99786-4819
+- 📧 **Email**: francisco.luiz.jr@outlook.com
+- 💬 **WhatsApp**: [+55 47 99786-4819](https://wa.me/5547997864819?text=Olá! Vi seu GitHub e gostaria de conversar sobre um projeto.)
+- 📱 **Telefone**: +55 47 99786-4819
 
-### 🎯 Sempre aberto para:
-- 🤝 Consultoria técnica
-- 🚀 Projetos desafiadores
-- 💡 Discussões sobre arquitetura
-- 🌱 Mentoria em desenvolvimento
+### 🎯 Disponível para:
+- 🤝 **Consultoria técnica** e arquitetura de sistemas
+- 🚀 **Desenvolvimento** de projetos complexos
+- 🏛️ **Projetos governamentais** e licitações
+- 🏥 **Sistemas críticos** (saúde, financeiro)
+- 💡 **Liderança técnica** e mentoria
+
+### 🏢 Bash Technology
+Como **CIO** da Bash Technology, lidero:
+- 🏗️ **Arquitetura de sistemas** escaláveis
+- 👥 **Equipes de desenvolvimento**
+- 📋 **Padrões técnicos** e boas práticas
+- 🚀 **Inovação tecnológica** em projetos
 
 ---
 
-*"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista do que fazer e não fazer. Profissionalismo e artesanato vêm de valores que dirigem disciplinas."* - Uncle Bob
+*"A experiência não é o que acontece com você; é o que você faz com o que acontece com você."* - Aldous Huxley
+
+### 🔥 Contribuições Recentes
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
