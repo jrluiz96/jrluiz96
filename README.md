@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Francisco Luiz Junior
 
-## 🚀 Bacharel em Engenheiro de Software
+## 🚀 Bacharel em Engenharia de Software
 
 Formado em **Bacharelado em Engenharia de Software** pela Univille (2023), com **+8 anos** de experiência prática em desenvolvimento. Especialista em **Go**, **PHP** e **arquitetura de sistemas** para soluções governamentais e empresariais.
 
